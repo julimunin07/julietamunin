@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog sobre Taylor Swift</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #fff; color: #000; margin: 40px;">
+  <header>
+    <h1>Blog sobre Taylor Swift</h1>
+    <nav>
+      <a href="../index.html">Inicio</a> |
+      <a href="about.html">Sobre mí</a>
+    </nav>
+    <hr>
+  </header>
+
+  <main>
+    <!-- Publicación 1 -->
+    <article>
+      <h2>"1989 (Taylor’s Version)" conquista las listas</h2>
+      <p><strong>Autor:</strong> SwiftFan2025</p>
+      <p><em>Publicado el:</em> 10 de octubre de 2025</p>
+      <img src="1989.jpg" alt="Portada del álbum 1989 Taylor’s Version" width="400" />
+      <p>
+        Taylor Swift ha vuelto a lanzar uno de sus álbumes más icónicos: <em>1989 (Taylor’s Version)</em>.
+        El relanzamiento incluye nuevas canciones “From the Vault” y una producción renovada.
+      </p>
+      <p>
+        Con este proyecto, Taylor continúa su esfuerzo por recuperar el control de su catálogo musical.
+        Los fans han mostrado un enorme apoyo, y el álbum ya está rompiendo récords en streaming.
+      </p>
+    </article>
+
+    <hr>
+
+    <!-- Publicación 2 -->
+    <article>
+      <h2>El fenómeno de “The Eras Tour”</h2>
+      <p><strong>Autor:</strong> MusicLover</p>
+      <p><em>Publicado el:</em> 5 de septiembre de 2025</p>
+      <img src="eras-tour.jpg" alt="Taylor Swift en el escenario de The Eras Tour" width="400" />
+      <p>
+        “The Eras Tour” ha sido uno de los tours más exitosos de la historia. Cada show es una celebración
+        de las diferentes etapas de la carrera de Taylor Swift.
+      </p>
+      <p>
+        Desde su debut country hasta sus éxitos pop más recientes, el espectáculo es una experiencia inolvidable
+        para los fans de todas las edades.
+      </p>
+    </article>
+
+    <hr>
+
+    <!-- Publicación 3 -->
+    <article>
+      <h2>Taylor Swift y su impacto en la industria musical</h2>
+      <p><strong>Autor:</strong> MelodyWriter</p>
+      <p><em>Publicado el:</em> 20 de agosto de 2025</p>
+      <img src="taylor-impact.jpg" alt="Taylor Swift en un evento musical" width="400" />
+      <p>
+        Taylor Swift ha cambiado la forma en que los artistas manejan sus carreras. Su defensa por los derechos
+        de los músicos y su independencia creativa la han convertido en una figura influyente.
+      </p>
+      <p>
+        Además, ha demostrado que la autenticidad y la narrativa personal pueden ser poderosas herramientas en la música.
+      </p>
+    </article>
+
+    <hr>
+
+    <!-- Publicación 4 -->
+    <article>
+      <h2>Los Easter Eggs de Taylor: un lenguaje secreto para los fans</h2>
+      <p><strong>Autor:</strong> SwiftieDetective</p>
+      <p><em>Publicado el:</em> 2 de julio de 2025</p>
+      <img src="easter-eggs.jpg" alt="Detalles ocultos en los videoclips de Taylor Swift" width="400" />
+      <p>
+        Desde hace años, Taylor Swift es conocida por dejar pistas ocultas (“Easter Eggs”) en sus videoclips,
+        letras y publicaciones. Los fans disfrutan descifrando cada detalle.
+      </p>
+      <p>
+        Esta interacción ha creado una comunidad en línea muy activa, que analiza todo lo que Taylor publica,
+        buscando el próximo gran anuncio.
+      </p>
+    </article>
+
+    <hr>
+
+    <!-- Publicación 5 -->
+    <article>
+      <h2>Colaboraciones memorables</h2>
+      <p><strong>Autor:</strong> PopCultureFan</p>
+      <p><em>Publicado el:</em> 15 de junio de 2025</p>
+      <img src="collab.jpg" alt="Taylor Swift junto a otros artistas en el escenario" width="400" />
+      <p>
+        A lo largo de su carrera, Taylor ha colaborado con artistas como Ed Sheeran, Kendrick Lamar y Bon Iver.
+        Cada colaboración ha mostrado una nueva faceta de su estilo musical.
+      </p>
+      <p>
+        Estas asociaciones no solo demuestran su versatilidad, sino también su capacidad para unir géneros y generaciones.
+      </p>
+    </article>
+  </main>
+
+  <footer>
+    <hr>
+    <p>© 2025 Blog de Taylor Swift | Creado por Julieta Munin</p>
+  </footer>
+</body>
+</html>
